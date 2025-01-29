@@ -27,3 +27,13 @@ MonoBehaviour:
     m_SpecifySize: 0
     m_Name: Mannequin
     m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5370282395404566992
+      m_GuidHigh: 6463497754362759081
+    m_SerializedTextureGuid:
+      m_GuidLow: 6009145225699067720
+      m_GuidHigh: 15458336172269167755
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: hand
+    m_Texture: {fileID: 0}
